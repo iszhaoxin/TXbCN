@@ -1,0 +1,17 @@
+[
+    {
+       "name":"Daily",
+       "url":"http://localhost:4000/tags/Daily/",
+       "desc":"Just some records of my life"
+    },
+    {
+       "name":"NLP Notebook",
+       "url":"http://localhost:4000/tags/NLP-Notebook/",
+       "desc":"The note about Natural Language Processing"
+   },
+   {
+      "name":"Interests",
+      "url":"https://localhost:4000/tags/Interests/",
+      "desc":"The note about of interests"
+   }
+]
